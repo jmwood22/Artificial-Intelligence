@@ -1,0 +1,26 @@
+Welcome to the Numbrix Read Me.
+
+In order to play the game, you must run the file Numbrix.java.
+
+You will then be prompted to input the name of the file containing
+the initial game data. I have included two of these files called
+InitGameData1 and InitGameData2 if you do not have one yourself.
+However, if you want to use your own file it must be organized in
+the following manner:
+
+The first number should be the width or height of the desired grid.
+The following lines will be the "setup moves" meaning they should 
+consist of three numbers (row, column, value) with only spaces
+between them.
+
+After the file is read, the on-screen directions should guide you.
+The addition boards are files Board1-7, and the tournament boards 
+Tourn1-17. When the game is ready to play, press 5 to allow the AI 
+to play and when it is done, the solution and the time in 
+milliseconds will be displayed but to show the move history, press 3.
+In order to read a new file with stopping and restarting the 
+program, press 6 and make a new file selection.Remember to press 
+enter after making a selection and try not to find any bugs!!!
+
+Thanks,
+Jeffrey Wood
